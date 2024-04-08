@@ -1,0 +1,3 @@
+/Users/admin/Downloads/UTM/SDA/Seminar/Sem2/cmake-build-debug/CMakeFiles/Sem2.dir
+/Users/admin/Downloads/UTM/SDA/Seminar/Sem2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Downloads/UTM/SDA/Seminar/Sem2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
