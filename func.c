@@ -311,7 +311,7 @@ void print_result_of_program(enum Exit_Status exit_status) {
 			return;
 		}
 		case ALL_PRINTERS_ARE_BROKEN: {
-			printf("\nAll printers are broken and printing is stopped!\n");
+//			printf("\nAll printers are broken and printing is stopped!\n");
 			return;
 		}
 		case PRINTERS_FINISHED_TO_PRINT: {
