@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
-#include "func.h"
+#include "view/v_func.h"
+#include "controller/c_funcs.h"
+
 
 int main() {
 	int exit_status = 0;
@@ -13,6 +15,7 @@ int main() {
 	Document *doc_queue = init_docs_list_from_file_path("/Users/admin/Downloads/UTM/SDA/Seminar/Sem2/data.txt");
 
 	give_docs_to_printers(head_printer, doc_queue);
+
 	show_printing_docs(head_printer);
 
 	srand(time(NULL));
