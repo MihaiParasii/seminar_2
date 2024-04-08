@@ -1,18 +1,14 @@
 # ninja log v5
 0	169	1712602821591293241	CMakeFiles/Sem2.dir/view/func.c.o	a7e95a4e2cbe4c1b
 2	245	1712602128183868022	CMakeFiles/Sem2.dir/view/private_func.c.o	4f9484f9e1885795
-0	210	1712602836358304480	CMakeFiles/Sem2.dir/controller/func.c.o	dee56ae66d836a1b
-0	46	1712603367097906694	build.ninja	b8dc57636835b619
-1	171	1712602821593654967	CMakeFiles/Sem2.dir/controller/c_funcs.c.o	eab67677bcf82010
+0	46	1712603711527748818	build.ninja	b8dc57636835b619
+2	140	1712603384818331841	CMakeFiles/Sem2.dir/controller/c_funcs.c.o	eab67677bcf82010
 1	167	1712510098500201545	CMakeFiles/Sem2.dir/test.c.o	1dce3b7e76d0192e
-2	250	1712602128188028239	CMakeFiles/Sem2.dir/private_funcs.c.o	6447fd703b1d5ddd
-171	261	1712602821680587126	Sem2	c534cda00002b1fe
-2	250	1712602128187467255	CMakeFiles/Sem2.dir/func.c.o	a3f1117d2bc93d2a
-0	169	1712602821590365059	CMakeFiles/Sem2.dir/main.c.o	3a37a76cab3002b4
-1	272	1712602745834428763	CMakeFiles/Sem2.dir/controller/c_private_funcs.c.o	8066f7bc958d89a3
-2	137	1712603384816091778	CMakeFiles/Sem2.dir/view/v_private_func.c.o	bd5437f99093b3af
 2	137	1712603384816037947	CMakeFiles/Sem2.dir/view/v_func.c.o	5c33485eab26b401
+2	250	1712602128188028239	CMakeFiles/Sem2.dir/private_funcs.c.o	6447fd703b1d5ddd
+140	253	1712603384932032882	Sem2	9b6b7cd44e3b63e9
+2	137	1712603384816091778	CMakeFiles/Sem2.dir/view/v_private_func.c.o	bd5437f99093b3af
+2	250	1712602128187467255	CMakeFiles/Sem2.dir/func.c.o	a3f1117d2bc93d2a
 1	138	1712603384816035988	CMakeFiles/Sem2.dir/main.c.o	3a37a76cab3002b4
 2	138	1712603384817510864	CMakeFiles/Sem2.dir/controller/c_private_funcs.c.o	8066f7bc958d89a3
-2	140	1712603384818331841	CMakeFiles/Sem2.dir/controller/c_funcs.c.o	eab67677bcf82010
-140	253	1712603384932032882	Sem2	9b6b7cd44e3b63e9
+0	210	1712602836358304480	CMakeFiles/Sem2.dir/controller/func.c.o	dee56ae66d836a1b
