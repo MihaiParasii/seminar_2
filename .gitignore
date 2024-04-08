@@ -1,3 +1,5 @@
 .gitignore
 CMakeLists.txt
-/cmake-build-debug
+#/cmake-build-debug/.ninja_log
+/cmake-build-debug/
+#/cmake-build-debug/CMakeFiles
