@@ -1,7 +1,7 @@
 # ninja log v5
 0	169	1712602821591293241	CMakeFiles/Sem2.dir/view/func.c.o	a7e95a4e2cbe4c1b
 2	245	1712602128183868022	CMakeFiles/Sem2.dir/view/private_func.c.o	4f9484f9e1885795
-0	46	1712603711527748818	build.ninja	b8dc57636835b619
+0	46	1712604035771764950	build.ninja	b8dc57636835b619
 2	140	1712603384818331841	CMakeFiles/Sem2.dir/controller/c_funcs.c.o	eab67677bcf82010
 1	167	1712510098500201545	CMakeFiles/Sem2.dir/test.c.o	1dce3b7e76d0192e
 2	137	1712603384816037947	CMakeFiles/Sem2.dir/view/v_func.c.o	5c33485eab26b401
