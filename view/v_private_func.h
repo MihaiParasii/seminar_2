@@ -1,7 +1,3 @@
-//
-// Created by Misha on 08.04.2024.
-//
-
 #ifndef _V_PRIVATE_FUNC_H_
 #define _V_PRIVATE_FUNC_H_
 

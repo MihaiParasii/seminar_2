@@ -1,7 +1,3 @@
-//
-// Created by Misha on 14.03.2024.
-//
-
 #ifndef _STRUCT_H_
 #define _STRUCT_H_
 

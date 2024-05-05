@@ -32,13 +32,11 @@ int main() {
 		if (are_printers_finished_to_print(head_printer)) {
 			exit_status = PRINTERS_FINISHED_TO_PRINT;
 			execution = false;
-//			break;
 		}
 
 		if (are_printed_all_docs(doc_queue)) {
 			exit_status = ALL_DOCS_ARE_PRINTED;
 			execution = false;
-//			break;
 		}
 
 
@@ -53,7 +51,6 @@ int main() {
 		if (are_all_printers_broken(head_printer)) {
 			exit_status = ALL_PRINTERS_ARE_BROKEN;
 			execution = false;
-//			break;
 		}
 
 		// Simulate adding new printer
@@ -87,7 +84,6 @@ int main() {
 		if (are_cancelled_all_docs(doc_queue)) {
 			exit_status = ALL_DOCS_ARE_CANCELLED;
 			execution = false;
-//			break;
 		}
 	}
 

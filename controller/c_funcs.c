@@ -1,7 +1,3 @@
-//
-// Created by Misha on 08.04.2024.
-//
-
 #include <stdlib.h>
 #include <time.h>
 #include <assert.h>

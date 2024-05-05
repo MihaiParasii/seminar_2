@@ -1,7 +1,3 @@
-//
-// Created by Misha on 08.04.2024.
-//
-
 #include <stdio.h>
 #include <assert.h>
 #include "v_private_func.h"

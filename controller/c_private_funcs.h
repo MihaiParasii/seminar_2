@@ -1,7 +1,3 @@
-//
-// Created by Misha on 08.04.2024.
-//
-
 #ifndef _C_PRIVATE_FUNCS_H_
 #define _C_PRIVATE_FUNCS_H_
 

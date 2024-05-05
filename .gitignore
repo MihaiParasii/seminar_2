@@ -1,2 +1,4 @@
 .gitignore
 /cmake-build-debug/
+.idea/sonarlint/
+/.idea/sonarlint/
