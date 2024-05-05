@@ -1,7 +1,3 @@
-//
-// Created by Misha on 14.03.2024.
-//
-
 #ifndef _FUNC_H_
 #define _FUNC_H_
 #include <stdbool.h>

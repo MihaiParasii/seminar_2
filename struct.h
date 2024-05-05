@@ -1,7 +1,3 @@
-//
-// Created by Misha on 14.03.2024.
-//
-
 #ifndef _STRUCT_H_
 #define _STRUCT_H_
 
@@ -26,7 +22,7 @@ typedef struct Document {
 	int rows_count;
 	int unprinted_rows;
 	struct Document *next;
-	bool emergency_printing_status : 1;
+	bool emergency_printing_status: 1;
 	DocumentPrintingStatus document_printing_status;
 } Document;
 
@@ -36,7 +32,7 @@ typedef struct Printer {
 	Document *printing_doc;
 	struct Printer *next;
 	int type_of_printer;
-	bool is_working : 1;
+	bool is_working: 1;
 } Printer;
 
 enum Exit_Status {

@@ -1,6 +1,3 @@
-//
-// Created by Misha on 25.03.2024.
-//
 #include <time.h>
 #include <stdlib.h>
 #include <string.h>

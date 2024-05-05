@@ -1,7 +1,3 @@
-//
-// Created by Misha on 25.03.2024.
-//
-
 #ifndef _PRIVATE_FUNCS_H_
 #define _PRIVATE_FUNCS_H_
 #include "struct.h"
